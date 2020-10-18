@@ -96,19 +96,11 @@
             </div>
           </div>
 
-         <script>$(".text").load("review/DMC5.txt");</script> 
+          <div id=#update></div>
 <script>
-    $(document).ready(function() {
-    $("#50").click(function() {
-        $.ajax({
-            url : "review/DMC5.txt",
-            dataType: "text",
-            success : function (data) {
-                $(".text").html(data);
-            }
-        });
-    });
-}); 
+$(document).ready(function () { 
+    $('#update').load('review/DMC5.txt');  
+});
 </script>
 </body>
 </html>
