@@ -52,7 +52,7 @@
                         <div class="col-9">
                             <div class="tab-content" id="v-pills-tabContent">
                                 <div class="tab-pane fade show active" id="DMC5" role="tabpanel" aria-labelledby="DMC5-tab"><div id="update"></div></div>
-                                <div class="tab-pane fade" id="Blank" role="tabpanel" aria-labelledby="Blank-tab"><p>Blank Page</p> </div>
+                                <div class="tab-pane fade" id="Blank" role="tabpanel" aria-labelledby="Blank-tab"><div id="DMC"></div></div>
                             </div>
                     </div>
                 </div>
@@ -63,7 +63,8 @@
 <script>
 let text='review/Control.txt'
 $(document).ready(function () { 
-    $('#update').load(text);  
+    $('#update').load(text); 
+    $('#update').load('review/DMC5.txt');
 });
 </script>
 </body>
