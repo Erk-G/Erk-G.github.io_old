@@ -1,0 +1,51 @@
+            <p>
+                This is the game that would have met the minimum expectations that I had for Secret of Mana. 
+                There’s a ton of improvements for this game compared to the last one. 
+                The useless charge attack system is gone and replaced with a special attack meter that when filled lets you do a special attack with different attacks unlocked later that require higher charge. 
+                The percentage attack system is gone, so you can only attack when ready. 
+                Chain casting is mostly gone and is unnecessary to fight bosses anyhow. 
+                The characters are more unique and the story is better I guess. 
+                There’s no music that grates the ears, and there is only one song in the game that is annoying at all. 
+                The pixel art is amazing, and it’s probably the best looking game on the SNES. 
+                There are save spots in dungeons that also act like inns.
+                 Party members stuck on walls don’t stop you in your tracks, woo.
+            </p>
+            <h3>
+
+
+                Story
+            </h3>
+            <p>
+                With the positives out of the way, people who play Mana games should know there are always some big negatives. 
+                The story is so tropey it’s unotible. 
+                I only played with Duran as the lead but with other aspects of the story being pretty poor then I’m pretty certain that the other two storylines are just as tropey. 
+                Duran’s dad was the best swordsman and best friends with the prince, and in the battle with the dragon lord he died. 
+                Thus Duran aims to be the best swordsman especially after he brutally loses to a mage, and hey that mage has a dark knight ally. 
+                I wonder who that is? Off he goes to get a class change, but then he gets chosen by the mana sword (which you never use cause Duran is the only character who uses swords and whoever you choose first is chosen) and he does stuff with the mana crystals to save the mana tree. 
+            </p>
+            <p>
+                The reason why I am pretty sure the story for the other two aren’t much better is mostly due to how little writing there is in the game. 
+                There is a good half of the game where zero story happens and you just fight bosses for awhile. 
+                I only remember special dialogue between party members happening twice in my party of Duran, Angela and Hawkeye. 
+                The first when I recruited Hawkeye because he broke the part out of prison, and the other time being the credits with Angela and Duran. 
+                This game is like 20+ hours.
+            </p>
+            <h3>
+                Gameplay
+            </h3>
+            <p>
+                Even though there are improvements, Secret of Mana’s combat was very flawed. 
+                While party members stuck on walls don’t impede movement, they won’t be in combat if you fight on the same screen that they’re stuck.
+                It is more efficient to use your level one specials then to wait for 2 or 3 in part because it’s a shorter wait time, but mostly because they pause combat to show you the animation. 
+                Yes they didn’t fix the pausing of combat during animation heavy actions, so spells take forever to cast. 
+                You cannot queue a command for a party member if they are either in the middle of physically attacking or have decided the next thing they want to do is physically attack. 
+                Meaning there are going to be a lot of moments where you look like an idiot trying to menu to a different character before realizing you need to wait a few in combat seconds before you are allowed too. 
+                The storage and pause menus take a very long time to load and scroll through. 
+                Some enemies and bosses auto-counter special attacks or spells with their own, so if you walk into one of those encounters without turning off the AI’s ability to special attack then you are dead. 
+                There are going to be moments where you know you are at the end of a dungeon and there are two exits on that screen. One being a save point and the other being the boss. 
+                You will hate yourself and the game if you pick wrong and die.
+            </p>
+            <p>
+                I can’t recommend this game, meaning there is absolutely no reason to pick up the Collection of Mana. However, the remake fixes every problem I have with gameplay as far as I’m aware so play that instead.
+                
+            </p>
