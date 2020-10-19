@@ -51,7 +51,7 @@
           </div>
           <div class="col-md-10">
             <div class="tab-content" id="v-pills-tabContent">
-                <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">It's here</div>
+                <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab"><p id="date"></p></div>
                 <div class="tab-pane fade" id="Reviews" role="tabpanel" aria-labelledby="Reviews-tab">
                     <div class="row">
                         <div class="col-md-3" style="background-color: #203647;">
@@ -252,6 +252,8 @@ $(document).ready(function () {
 $("#Devil_May_Cry_5_txt").load("review/Devil_May_Cry_5.txt");});
 $(document).ready(function () {
 $("#Ghost_of_Tsushima_txt").load("review/Ghost_of_Tsushima.txt");});
+$(document).ready(function () {
+    document.getElementById("date").innerHTML=Date()});
 </script>
 </body>
 </html>
