@@ -1,3 +1,3 @@
                 It’s like a better Zero 1, and I like Zero 1. A good platforming game combined with top down shooter (sorta). 
                 I hope the next game lets you play as the other characters you meet.
-		SPOILERS <span class="spoiler">In the true ending you pilot the Andreia which was pretty fun.</span>
+		SPOILERS <div class="spoiler">In the true ending you pilot the Andreia which was pretty fun.</div>
