@@ -252,8 +252,18 @@ $(document).ready(function () {
 $("#Devil_May_Cry_5_txt").load("review/Devil_May_Cry_5.txt");});
 $(document).ready(function () {
 $("#Ghost_of_Tsushima_txt").load("review/Ghost_of_Tsushima.txt");});
+    
+ 
+let time=new Date().getHours();
+let day="AM";
+if(time>12){
+  time=time-12;
+  day="PM"
+}
+time=time+":"+new Date().getMinutes()+" "+day;
+
 $(document).ready(function () {
-    document.getElementById("date").innerHTML=Date()});
+    document.getElementById("date").innerHTML=time});
 </script>
 </body>
 </html>
