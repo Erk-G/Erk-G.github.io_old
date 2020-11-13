@@ -254,16 +254,23 @@ $(document).ready(function () {
 $("#Ghost_of_Tsushima_txt").load("review/Ghost_of_Tsushima.txt");});
     
  
-let time=new Date().getHours();
-let day="AM";
-if(time>12){
-  time=time-12;
-  day="PM"
-}
-time=time+":"+new Date().getMinutes()+" "+day;
+//Time does not account for single digit minutes. Will just show one digit.
+    function animate(time){
+        let clock=new Date().getHours();
+        let day="AM";
+        if(clock>12){
+            clock=clock-12;
+            day="PM"
+        }
+    clock=clock+":"+new Date().getMinutes()+" "+day;
 
-$(document).ready(function () {
-    document.getElementById("date").innerHTML=time});
+
+    $(document).ready(function () {
+        document.getElementById("date").innerHTML=clock});
+        requestAnimationFrame(newTime => animate(newTime, time));
+    }
+
+    requestAnimationFrame(animate);
 </script>
 </body>
 </html>
