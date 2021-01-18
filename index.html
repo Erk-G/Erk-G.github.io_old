@@ -193,8 +193,13 @@
             clock=clock-12;
             day="PM"
         }
-    clock=clock+":"+new Date().getMinutes()+" "+day;
-
+        let minutes=new Date().getMinutes();
+    if(minutes>=10){
+        clock=clock+":"+minutes+" "+day;
+    }
+    else{
+        clock=clock+":0"+minutes+" "+day;
+    }
 
     $(document).ready(function () {
         document.getElementById("date").innerHTML=clock});
