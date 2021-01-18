@@ -89,5 +89,5 @@ function QuestTracker(){
         QuestText="Quest #"+text[1]+": "+text[0]+".\n Number of quests until next Dungeon/Trial: "+text[2];
     }
     document.getElementById("Stats").innerHTML=QuestText;
-    document.getElementById("Head").innterHTML=Header;
+    document.getElementById("Head").innerHTML=Header;
 }
