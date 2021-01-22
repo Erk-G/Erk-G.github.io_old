@@ -1,4 +1,4 @@
-let Dict={"closetohome":["closetohome":["Close to Home (Gridania)","1","23","N"],
+let Dict={"closetohome":["Close to Home (Gridania)","1","23","N"],
 "tothebannock":["To the Bannock","2","22","N"],
 "passingmuster":["Passing Muster","3","21","N"],
 "chasingshadows":["Chasing Shadows","4","20","N"],
