@@ -65,7 +65,7 @@
                         <div class="col-md-9">
                             <div class="tab-content" id="v-pills-tabContent">
                                 <div class="tab-pane fade show active" id="Top_10" role="tabpanel" aria-labelledby="Top_10-tab"><div>
-                                    <form id="frm1" action="/action_page.php">
+                                    <form class="js-form" id="frm1" action="/action_page.php">
                                         QuestName: <input type="text" name="Quest"><br>
                                         <input type="button" onclick="QuestTracker()" value="Submit">
                                         </form>
@@ -207,6 +207,10 @@
     }
 
     requestAnimationFrame(animate);
+document.querySelector('.js-form')?.addEventListener('submit', e => {
+  e.preventDefault();
+  QuestTracker();
+});
 </script>
 <script src="LoadTxT.js"></script>
 </body>
